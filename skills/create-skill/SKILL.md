@@ -77,7 +77,7 @@ Try invoking the skill by mentioning its triggers in a prompt.
 mkdir -p ~/.claude/skills/shopify
 ```
 
-Then write `/Users/joozio/.claude/skills/shopify/SKILL.md`:
+Then write `~/.claude/skills/shopify/SKILL.md`:
 
 ```yaml
 ---
@@ -149,7 +149,7 @@ Brief intro.
 
 ## Key Details
 - **API Endpoint**: https://...
-- **Credentials**: `/Users/joozio/wiz/global/secrets/example.md`
+- **Credentials**: `~/your-project/secrets/example.md`
 ```
 
 ## Self-Check Before Saving

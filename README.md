@@ -78,9 +78,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Related
 
-- [claude-md-templates](https://github.com/joozio/claude-md-templates) — CLAUDE.md templates for teams and solo devs
+- [claude-md-templates](https://github.com/joozio/claude-md-templates) — production CLAUDE.md templates for different roles
 - [claude-skill-auditor](https://github.com/joozio/claude-skill-auditor) — Security scanner for skills (detects malicious patterns)
 
 ## License
 
 MIT
+
+---
+
+Built by [Pawel Jozefiak](https://thoughts.jock.pl). I write about AI agents, automation, and building in public at **[Digital Thoughts](https://thoughts.jock.pl)** (1,000+ subscribers).
+
+Read more: [How I Structure CLAUDE.md](https://thoughts.jock.pl/p/how-i-structure-claudemd)
+
+Go deeper: [Claude Code Workshop](https://wiz.jock.pl/store/claude-code-workshop) ($29)
+
+[Subscribe to the newsletter](https://thoughts.jock.pl/subscribe) | [More projects](https://github.com/joozio) | [@joozio](https://x.com/joozio)
